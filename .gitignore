@@ -1,0 +1,10 @@
+# secrets — Anthony's real config lives only on the M1
+config.json
+
+# runtime data
+dashboard.db
+dashboard.db-journal
+dashboard.db-wal
+*.db
+
+__pycache__/

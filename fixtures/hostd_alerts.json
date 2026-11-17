@@ -1,0 +1,1 @@
+[{"id":"alert-volume-unavailable","message":"Volume 6 is unavailable: open /Volumes/Seagate 20/Sia/sia: no such file or directory","severity":"error","timestamp":"2026-11-17T16:32:30Z"},{"id":"alert-wallet-low","message":"Wallet balance is low; contract formations may fail until the wallet is funded","severity":"warning","timestamp":"2026-11-17T15:05:00Z"}]
